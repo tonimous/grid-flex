@@ -29,6 +29,7 @@ divider color #BDBDBD
 body {
   font-family: "Open Sans", sans-serif;
   color: #212121;
+  border-bottom: 8px solid #00796b;
 }
 
 .container {
